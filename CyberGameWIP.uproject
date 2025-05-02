@@ -3,16 +3,6 @@
 	"EngineAssociation": "{C829305D-4572-A91A-B219-9893A647EE61}",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "CyberGameWIP",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
